@@ -22,3 +22,5 @@ Machine Learning in mobile applications with MLKit
 I enjoy contributing to open-source projects that focus on mobile development and React Native tooling.
 
 Thanks for stopping by! 😊
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=muhammadhuzaifakhalilhnhtechsolutions&theme=dark)](https://git.io/streak-stats)
